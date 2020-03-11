@@ -1,0 +1,11 @@
+section img {
+   max-height: 250px;
+   max-width: 250px;
+   margin: 5px;
+}
+
+#delete {
+    background-color: red;
+    margin-top: 10px;
+    color: white;
+}
